@@ -1,0 +1,4 @@
+scheme_id,scheme_name,scheme_category,department,benefit_type,avg_benefit_amount
+SCH01,Post-Matric Scholarship for SC Students,Education,Social Justice Dept,Cash Transfer,12000
+SCH02,MSME Employment Support,Economic Development,MSME Dept,Subsidy,50000
+SCH03,Direct Benefit Transfer (Aggregate),Social Welfare,Multiple,Cash Transfer,8000
