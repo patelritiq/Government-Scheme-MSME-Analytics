@@ -224,7 +224,7 @@ While this project uses publicly available and augmented data for demonstration 
 ---
 
 ## Disclaimer
-This project is **not an official initiative or project of any organization** and does not represent any internal or confidential organizational data. It is an independent demonstration of analytical capabilities and potential applications in the public sector domain.
+This project is **not an official initiative or project of MPSEDC** and does not represent any internal or confidential organizational data. It is an independent demonstration of analytical capabilities and potential applications in the public sector domain.
 
 ---
 
